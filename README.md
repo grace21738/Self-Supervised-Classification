@@ -1,6 +1,5 @@
 # Self-Supervised-Classification
 
-> 310581040 智能所 簡郁宸
 
 ### 資料集
 
