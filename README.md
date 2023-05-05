@@ -5,8 +5,12 @@
 ### 資料集
 
 + Brain Magnetic Resonance Imaging (MRI) ，總共 7294 個 images，大小為 94 * 94，並且共有 4 種分類
+
 + Train ( Unlabeled ) data set : 7294 images
+
 + Test data : 500 images
+
+  ![0000](.\images\0000.jpg)![0015](.\images\0015.jpg)![0019](.\images\0019.jpg)![0022](.\images\0022.jpg)
 
 ### 資料前處理
 
