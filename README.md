@@ -9,7 +9,7 @@
 
 + Test data : 500 images
 
-  ![0000](.\images\0000.jpg)![0015](.\images\0015.jpg)![0019](.\images\0019.jpg)![0022](.\images\0022.jpg)
+  ![0000](images/0000.jpg)![0015](images/0015.jpg)![0019](images/0019.jpg)![0022](images/0022.jpg)
 
 ### 資料前處理
 
